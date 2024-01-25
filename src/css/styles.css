@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+}
+
+.ant-tree-node-content-wrapper {
+    border-radius: 1px !important;
+}
+
+.p-treenode-content {
+    box-shadow: black !important;
+}
